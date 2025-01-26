@@ -1,11 +1,10 @@
-
 import React from 'react'
 
 export default function Banner() {
   return (
     <div className='relative overflow-hidden bg-gradient-to-r from-black to-grey-700 font-sans px-6 py-12 mb-7'>
       <div className='absolute inset-0 opacity-20'>
-        <img src="https://static.vecteezy.com/system/resources/thumbnails/038/364/292/small/ai-generated-demonic-cheesburger-hell-in-flame-background-photo.jpg"
+        <img src="https://t3.ftcdn.net/jpg/08/76/36/86/360_F_876368612_gEKvuea6ObRQEkFWjLKyesriBvePnVd3.jpg"
         alt='delicious burger banner'
         className="w-full h-full object-cover "/>
       </div>
